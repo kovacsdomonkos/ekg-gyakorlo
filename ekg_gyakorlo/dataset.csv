@@ -1,0 +1,181 @@
+﻿sorszam;nehezseg;leiras;kategoria
+1;1;Szabályos görbe ;0
+2;1;Szabályos görbe ;0
+3;1;Normál variáns, jobb deviáció ;0
+4;1;Normál variáns, bal deviáció ;0
+5;2;Normál variáns, várandós nő EKG-ja ;0
+6;1;Normál variáns, korai repolarizáció ;0
+7;1;Normál variáns, inkomplett jobb-Tawara-szár-blokk ;0
+8;1;A légzés hatása az EKG-ra ;0
+9;2;A légzés hatása az EKG-ra ;0
+10;1;Légzési aritmia ;0
+11;2;Situs inversus cordis ;0
+12;1;Sinustachycardia (ergometria), ascendáló ST-depressziók ;0
+13;2;Edzett sportoló EKG-ja ;0
+14;1;Sinusleállás junkcionális pótütésekkel ;0
+15;1;Sinusleállás junkcionális és kamrai pótritmussal;0
+16;2;Alsó pitvari ritmus ;1
+17;2;Alsó pitvari ritmus ;1
+18;2;Junkcionális akceleráció ;1
+19;3;Vándorló pitvari pacemaker ;1
+20;1;Junkcionális extrasystolék ;1
+21;1;Kamrai extrasystolék ;1
+22;2;Akcelerált idioventricularis ritmus ;1
+23;2;Kamrai parasystolia ;1
+24;1;Aberránsan vezetett bigemin pitvari extrasystolék ;1
+25;2;Blokkolt pitvari extrasystolék ;1
+26;2;Rövid pitvari tachycardiás megfutások;1
+27;2;Pitvari tachycardia ;1
+28;2;Multifokális pitvari tachycardia (MAT) ;1
+29;1;AV-nodalis reentry tachycardia (AVNRT) ;1
+30;1;AVNRT megszűnése ;1
+31;1;AVNRT ;1
+32;1;Pitvari tachyfibrillatio ;1
+33;1;Pitvarfibrilláció lassú kamrafrekvenciával ;1
+34;1;Pitvarlebegés 4:1-es átvezetéssel ;1
+35;1;Pitvarlebegés 2:1-es, majd 4:1-es átvezetéssel ;1
+36;2;Pitvarlebegés változó blokkaránnyal, carotismasszázs hatása ;1
+37;2;Pitvari flutter 2:1-es, majd 1:1-es átvezetéssel ;1
+38;2;Pitvari fibrilloflutter és sinusritmus váltakozása ;1
+39;2;Pitvari fibrilloflutter, low voltage;1
+40;1;Kapcsolt kamrai extrasystolék ;2
+41;1;Nem tartós kamrai tachycardia, interpolált kamrai extrasystole ;2
+42;2;A jobb kamrai kiáramlási pályából származó repetitív kamrai ütések;2
+43;1;Tartós, monomorf kamrai tachycardia ;2
+44;2;Kamrai tachycardia ;2
+45;3;Kamrai tachycardia, a Lewis-elvezetés használata ;2
+46;2;Kamrai tachycardia, befogott és fúziós ütések ;2
+47;3;Bidirekcionális kamrai tachycardia ;2
+48;1;Hosszú-QT-szindróma ;2
+49;1;Torsades de pointes kamrai tachycardia (TdP VT) ;2
+50;2;Hosszú-QT-szindróma, torsades de pointes kamrai tachycardia ;2
+51;2;Brugada-jel ;2
+52;3;Arrhythmogen jobb kamrai cardiomyopathia (ARVC) ;2
+53;1;Kamralebegés;2
+54;1;R a T-n jelenség, kamrafibrilláció defibrillálása;2
+55;1;I. fokú AV-blokk;3
+56;1;I. fokú AV-blokk;3
+57;1;I. fokú AV-blokk;3
+58;2;I. fokú AV-blokk, low voltage tendencia;3
+59;2;II. fokú, Mobitz I-es AV-blokk, low voltage tendencia;3
+60;1;II. fokú, Wenckebach-típusú (Mobitz I-es) AV-blokk;3
+61;2;II. fokú, Wenckebach-típusú AV-blokk (atípusos forma);3
+62;3;„Üres” Wenckebach-jelenség;3
+63;1;II. fokú Mobitz II-es AV-blokk, átmeneti teljes AV-blokk;3
+64;1;II. fokú 2:1-es AV-blokk kialaklása;3
+65;2;II. fokú, 2:1-es AV-blokk megszűnése;3
+66;2;II. fokú 2:1-es AV-blokk Mobitz I-es formája;3
+67;3;II. fokú, Mobitz II-es AV-blokk keskeny QRS mellett;3
+68;1;III. fokú AV-blokk junkcionális pótritmussal;3
+69;2;Magasfokú AV-blokk III. fokú AV-blokkba megy át;3
+70;1;Magasfokú AV-blokk;3
+71;3;A Bachmann-nyaláb blokkja;3
+72;2;II. fokú Wenckebach-típusú sinuatrialis blokk;3
+73;1;III. fokú SA-blokk junkcionális pótritmussal;3
+74;3;Carotismasszázs;3
+75;1;Inkomplett jobb-Tawara-szár-blokk;4
+76;1;Jobb-Tawara-szár-blokk;4
+77;1;Jobb-Tawara-szár-blokk;4
+78;2;Jobb-Tawara-szár-blokk;4
+79;2;Pitvari bigeminia, jobb-Tawara-szár-blokk;4
+80;1;Inkomplett jobb-Tawara-szár-blokk, bal anterior hemiblokk;4
+81;2;Jobb-Tawara-szár-blokk, pitvari extrasystolék;4
+82;1;Bal-Tawara-szár-blokk;4
+83;1;Bal-Tawara-szár-blokk, pitvarfibrilláció;4
+84;3;Bal-Tawara-szár-blokk;4
+85;2;Bal-Tawara-szár-blokk;4
+86;2;Inkomplett bal-Tawara-szár-blokk pitvarfibrillációban;4
+87;2;Bal-Tawara-szár-blokk;4
+88;3;Frekvenciafüggő bal-Tawara-szár-blokk, atípusos pitvari flutter;4
+89;3;Frekvenciafüggő BTSZB pitvari fibrilloflutterben;4
+90;1;Bal anterior hemiblokk;4
+91;1;Bal posterior hemiblokk;4
+92;1;WPW-szindróma;5
+93;2;WPW-szindróma, intermittáló preexcitáció, orthodrom AVRT;5
+94;2;WPW-szindróma;5
+95;2;Orthodrom AVRT inkomplett jobb-Tawara-szár-blokkban;5
+96;2;Pitvarfibrilláció WPW-szindrómában (FBI-tachycardia);5
+97;1;WPW-szindróma;5
+98;2;WPW-szindróma, antidrom AVRT, majd FBI-tachycardia;5
+99;2;LGL-szindróma, rövid PQ-idő;5
+100;2;II. fokú AV-blokk: Mobitz I-es és 2:1-es blokk váltakozása, balkamra-hypertrophia;6
+101;2;Jobb-Tawara-szár-blokk, bal anterior hemiblokk, I. fokú AV-blokk;6
+102;2;Jobb-Tawara-szár-blokk, bal posterior hemiblokk, I. fokú AV-blokk;6
+103;3;Alsó pitvari tachycardia II. fokú, Wenckebach-blokkal;6
+104;3;Retrográd Wenckebach-blokkal járó kamrai tachycardia;6
+105;2;JTSZB és JTSZB-szerű kamrai tachycardia összehasonlítása;6
+106;2;Bal pitvari tachycardia 2:1-es átvezetéssel;6
+107;2;Pitvarfibrilláció szapora kamrafrekvenciával, frekvenciafüggő JTSZB-kal;6
+108;1;Bal posterior hemiblokk pitvarfibrillációban;6
+109;2;Jobb-Tawara-szár-blokk és JTSZB-szerű kamrai tachycardia (ergometria);6
+110;2;Pitvarlebegés inkomplett bal-Tawara-szár-blokkal;6
+111;1;P pulmonale;7
+112;1;P pulmonale;7
+113;1;Jobbszívfél-terhelés jelei;7
+114;1;Jobbszívfél-terhelés jelei;7
+115;2;Jobbszívfél-terhelés jelei;7
+116;2;Tüdőembolia;7
+117;2;Tüdőembolia, pitvarfibrilláció;7
+118;1;Balszívfél-terhelés jelei;7
+119;1;Balkamra-hypertrophia, P mitrale;7
+120;2;Balkamra-hypertrophia;7
+121;2;Balkamra-hypertrophia;7
+122;1;Hyperkalaemia;7
+123;1;Hyperkalaemia;7
+124;2;Súlyos hyperkalaemia;7
+125;3;Hyperkalaemia, I. fokú pacemaker exit blokk;7
+126;1;Hypokalaemia;7
+127;2;Súlyos hypokalaemia;7
+128;2;Hypocalcaemia;7
+129;2;Hypercalcaemia;7
+130;3;Hypothermiás beteg EKG-ja, Osborn-hullám;7
+131;1;Pitvari bradyfibrillatio, digitáliszhatás jelei;7
+132;1;Szívizom-ischaemia;8
+133;1;Angina pectoris, ST-depresszió, nem ST-elevációs szívinfarktus;8
+134;2;Angina pectoris alatti EKG-változások;8
+135;2;Pozitív ergometria;8
+136;1;Főtörzselzáródás;8
+137;1;Hyperacut anteroseptalis ST-elevációs szívinfarktus. Proximális LAD-elzáródás;8
+138;2;Extenzív anterior STEMI, pitvari flutter;8
+139;1;Sírkő ST-eleváció;8
+140;2;Szubakut inferolaterális STEMI;8
+141;1;Hátsó fali ST-elevációs szívinfarktus;8
+142;1;Régi inferolateralis és hátsófali infarktus;8
+143;1;Low voltage. Kiterjedt, definitív szívizomnecrosis;8
+144;1;Anterior STEMI pitvarfibrillációban;8
+145;1;Inferior STEMI;8
+146;2;Inferior és jobb kamrai STEMI;8
+147;2;Inferior és jobb kamrai STEMI;8
+148;1;Inferior STEMI és II. fokú Mobitz I-es AV-blokk;8
+149;1;Inferior STEMI;8
+150;1;Postero-inferior STEMI;8
+151;2;Bal kamrai aneurysma EKG-jele;8
+152;1;Wellens-szindróma, NSTEMI;8
+153;2;Prinzmetal-angina;8
+154;2;Anteroseptalis kiterjedésű nem ST-elevációs szívinfarktus ;8
+155;2;I. fokú AV-blokk, régi inferior és anteroseptalis nekrózis, JTSZB ;8
+156;2;Pitvarfibrilláció jobb-Tawara-szár-blokkal régi anterior szívinfarktusban, reguláris, széles-QRS-tachycardia;8
+157;3;Akut STEMI bal-Tawara-szár-blokk mellett, pitvarfibrillációban ;8
+158;1;Pericarditis ;9
+159;2;Pericarditis ;9
+160;3;Nagy pericardialis folyadékgyülem, QRS alternans ;9
+161;3;Myocarditis ;9
+162;3;Low voltage, amyloidosis ;9
+163;3;Low voltage, endomyocardialis fibrosis, kamrai tachycardia ;9
+164;1;Pitvari pacemaker (AAI) ;9
+165;1;Pitvari ingerlésű demand pacemaker, kamrai extrasystolék ;9
+166;1;Kamrai pacemaker (VVI) ;9
+167;3;Hiszterézis- és memóriajelenség időszakos VVI-pacemakeringerlésnél;9
+168;2;VVI pacemaker, hosszú QT, TdP kamrai tachycardia ;9
+169;2;Ineffektív VVI-ingerlés ;9
+170;2;Pacemaker alulérzékelés (undersensing) ;9
+171;2;Pacemaker-szindróma ;9
+172;1;Kétüregi, pitvar-kamrai szinkron pacemaker (DDD) ;9
+173;1;Pitvar-kamrai szinkron pacemaker ;9
+174;1;Biventricularis pacemaker (BiV, CRT) ;9
+175;1;Biventricularis pacemakeringerlés ;9
+176;2;Biventricularis pacemaker diszfunkciója ;9
+177;3;Pacemaker loop tachycardia ;9
+178;2;Műtermék (a beteg mozgásából adódó) ;9
+179;3;Műtermék (a gép meghibásodásából adódó);9
+180;2;Műtermék (elektróda diszpozícióból adódó);9
