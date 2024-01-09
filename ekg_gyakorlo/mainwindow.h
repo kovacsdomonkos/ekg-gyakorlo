@@ -18,7 +18,10 @@ public:
 private slots:
     void on_uj_regisztratum_clicked();
 
-    void on_action_kat01_toggled(bool arg1);
+    void on_action_kat00_toggled(bool arg1);
+
+    void on_action_kat01_triggered(bool checked);
+
 
 private:
     Ui::MainWindow *ui;

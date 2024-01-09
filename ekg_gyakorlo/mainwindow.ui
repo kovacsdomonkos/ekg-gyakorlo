@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="uj_regisztratum">
     <property name="geometry">
      <rect>
-      <x>220</x>
-      <y>20</y>
+      <x>260</x>
+      <y>10</y>
       <width>101</width>
       <height>31</height>
      </rect>
@@ -30,8 +30,8 @@
    <widget class="QPushButton" name="valasz_A">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>350</y>
+      <x>100</x>
+      <y>340</y>
       <width>171</width>
       <height>31</height>
      </rect>
@@ -43,8 +43,8 @@
    <widget class="QPushButton" name="valasz_B">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>350</y>
+      <x>350</x>
+      <y>340</y>
       <width>171</width>
       <height>31</height>
      </rect>
@@ -56,8 +56,8 @@
    <widget class="QPushButton" name="valasz_C">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>400</y>
+      <x>100</x>
+      <y>390</y>
       <width>171</width>
       <height>31</height>
      </rect>
@@ -69,8 +69,8 @@
    <widget class="QPushButton" name="valasz_D">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>400</y>
+      <x>350</x>
+      <y>390</y>
       <width>171</width>
       <height>31</height>
      </rect>
@@ -99,7 +99,7 @@
      <x>0</x>
      <y>0</y>
      <width>642</width>
-     <height>21</height>
+     <height>20</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuBe_ll_t_sok">
@@ -110,7 +110,11 @@
      <property name="title">
       <string>Kategóriák</string>
      </property>
+     <property name="separatorsCollapsible">
+      <bool>false</bool>
+     </property>
      <addaction name="action_kat00"/>
+     <addaction name="action_kat01"/>
     </widget>
     <addaction name="menuKateg_ri_k"/>
    </widget>
@@ -126,6 +130,17 @@
    </property>
    <property name="text">
     <string>BEVEZETŐ GÖRBÉK, PÓTÜTÉSEK</string>
+   </property>
+  </action>
+  <action name="action_kat01">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>EXTRASYSTOLÉK, SUPRAVENTRICULARIS ARITMIÁK</string>
    </property>
   </action>
  </widget>
